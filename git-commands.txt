@@ -1,0 +1,9 @@
+git commands:-
+
+1. init
+2. add
+3. rm
+4. reset
+5. restore
+5. push
+7. pull
